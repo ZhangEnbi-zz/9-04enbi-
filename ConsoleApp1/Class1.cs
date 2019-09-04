@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             return false;
         }
+        public bool methd2()
+        {
+            return true;
+        }
     }
 }
