@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Class1 cl1 = new Class1();
+            Console.WriteLine(cl1.method1()); 
         }
     }
 }

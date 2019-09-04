@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public bool method1()
         {
-            return true;
+            return false;
         }
     }
 }
